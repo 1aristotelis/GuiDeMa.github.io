@@ -1,0 +1,21 @@
+# Présentation
+Salut, moi c'est Guillaume ! Je suis un professeur (un peu) particulier...
+Ingénieur généraliste, j'ai commencé ma carrière dans l'industrie nucléaire, puis pharmaceutique. Je ne m'y suis jamais épanoui.
+Ce qui m'intéresse dans la vie, c'est de trouver des solutions [link] aux défis majeurs de notre époque. Oui, je veux changer le monde !
+Parmi les défis qui me tiennent à coeur, celui de l'Education est central. J'ai quitté mon poste d'ingénieur expatrié en Angleterre pour devenir professeur de Technologie au lycée, dans ma ville natale de Nice.
+Je tire de mon expérience d'élève, puis de professeur, la conclusion suivante : notre système éducatif est basé sur l'hypothèse erronée selon laquelle seule l'Ecole est capable d'assumer la tâche éducative.  
+Avec l'aide de quelques amis, tous rencontrés sur Internet, je développe ZeroSchool [zeroschool.org], 
+
+# Mon projet pédagogique : Build Your Own Xanadu  
+
+# Ce sur quoi je travaille
+* ZeroSchool.org : un système éducatif communautaire, taillé pour le 21ème siècle. Allez y faire un tour !
+* Nice.fr : un réseau social local
+* Hoon : Hoon est 
+
+# Venez apprendre avec moi !
+
+# Partenaires
+* Twetch Inc. : Twetch est un réseau social décentralisé qui redonne à l'utilisateur la possession de ses données et lui permet de les monétiser
+* Urbit : Urbit est un système d'exploitation et un réseau informatique qui fait tabe rase de l'infrastructure existante.
+* 21e8 : L'entreprise au nombre magique 
