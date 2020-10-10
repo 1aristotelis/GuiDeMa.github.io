@@ -1,0 +1,28 @@
+# Introduction
+Hi, I am Guillaume and I am a new kind of teacher..
+I started my career as an engineer in the nuclear industry first, then in the pharmaceutical industry, but I never got interessted in what I was doing.
+What I am interessted in though, is to find solutions [link] to the major challenges of our time. Yes, I want to change the world!
+Among all the challenges I care about, Education is central. I left my engineering job in the UK to become a highschool Technology teatcher in my hometown Nice, France.
+From my experience as a student, then as a teacher, I come to the following conclusion: our Education system is based on the false premise that only School is capable to provide Education.
+With the help of a few friends met on the Internet, I am building ZeroSchool [zeroschool.org], a peer-to-peer education system, fit for the 21st century. Come check it out!
+
+# My teaching philosophy : Build Your Own Xanadu
+
+# What I'm working on
+* Solve Education
+* Solve Internet
+    * Twetch 
+    * 21e8
+* Solve Computing
+    * Urbit
+* Energy
+    * Production
+    * Storage
+    * Distribution
+
+# Come, let's learn together!
+
+# Partnership
+* Twetch Inc.: Twetch is the decentralized social network where you own your data and profit from your content.
+* Urbit: Urbit is a clean-slate OS and network for the 21st century.
+* 21e8: The Magic Number Company
